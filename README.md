@@ -5,9 +5,8 @@ Designed and implemented a Simple Calculator that is able to compute math expres
 # Required Libraries
 
 In order to run the application, you will need PyQt5. To install PyQt:
-'''
-pip install PyQt5
-'''
+
+npm install
 
 # Run Application
 In order to run the application run:
