@@ -2,14 +2,10 @@
 
 Designed and implemented a Simple Calculator that is able to compute math expressions
 
-# Required Libraries
-
-In order to run the application, you will need PyQt5. To install PyQt:
-
-npm install
+# Perequisites
+1. Python
+2. PyQt5
 
 # Run Application
-In order to run the application run:
-'''
-python controller.py
-'''
+1. clone repository
+2. run `python controller.py`
