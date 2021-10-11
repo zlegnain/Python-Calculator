@@ -1,5 +1,5 @@
 
-mport PyQt5.QtWidgets as qtw
+import PyQt5.QtWidgets as qtw
 from PyQt5.QtWidgets import QWidget
 from frontend import MainWindow
 
